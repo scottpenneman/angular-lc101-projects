@@ -1,0 +1,13 @@
+.chores {
+    color: darkblue;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+li {
+    font-family: Helvetica;
+    font-size: 1.25em;
+    font-style: italic;
+}
